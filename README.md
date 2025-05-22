@@ -1,6 +1,6 @@
 # Lion 2024 Results: An Real-Time Adaptive Tabu Search for Handling Zoom In/Out in Map Labeling Problem
 
-This repository contains the results presented at the 18th Learning and Intelligent OptimizatioN Conference (LION 2024) in Ischia Island, Naples, Italy, from 9-13 June 2024. The paper titled "**An Real-Time Adaptive Tabu Search for Handling Zoom In/Out in Map Labeling Problem**" was presented by the authors *Vincenzo Cutello, Alessio Mezzina, Mario Pavone, and Francesco Zito*. It is part of the conference proceedings that will be published by Springer in the **Lecture Notes in Computer Science (LCNS) series.** (https://doi.org/10.1007/978-3-031-75623-8_9).
+This repository contains the results presented at the 18th Learning and Intelligent Optimization Conference (LION 2024) in Ischia Island, Naples, Italy, from 9-13 June 2024. The paper titled "**An Real-Time Adaptive Tabu Search for Handling Zoom In/Out in Map Labeling Problem**" was presented by the authors *Vincenzo Cutello, Alessio Mezzina, Mario Pavone, and Francesco Zito*. It is part of the conference proceedings that will be published by Springer in the **Lecture Notes in Computer Science (LCNS) series.** (https://doi.org/10.1007/978-3-031-75623-8_9).
 
 
 *Department of Mathematics and Computer Science
